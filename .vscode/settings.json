@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ccb644ed-6dc0-4cd8-89fe-dcc8cda7c73f/resourceGroups/qwertysocket/providers/Microsoft.Web/sites/qwertysocket"
+}
